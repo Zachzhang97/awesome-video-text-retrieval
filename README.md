@@ -51,6 +51,24 @@ Markdown format:
 
 ## Papers
 
+### OPEN SOURCE
+* `[Dong J, Li X, Xu C, et al.]` Dual encoding for video retrieval by text[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper]](https://arxiv.org/pdf/2009.05381.pdf) [[code]](https://github.com/danieljf24/hybrid_space)
+* `[Dong J, Li X, Xu C, et al.]` Dual encoding for zero-example video retrieval[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019: 9346-9355. [[paper]](https://arxiv.org/pdf/1809.06181.pdf) [[code]](https://github.com/danieljf24/dual_encoding)
+* `[Chen S, Zhao Y, Jin Q, et al.]` Fine-grained video-text retrieval with hierarchical graph reasoning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020: 10638-10647. [[paper]](https://arxiv.org/pdf/2003.00392.pdf) [[code]](https://github.com/cshizhe/hgr_v2t)
+* `[Li X, Xu C, Yang G, et al.]` W2vv++ fully deep learning for ad-hoc video search[C]//Proceedings of the 27th ACM International Conference on Multimedia. 2019: 1786-1794. [[paper]](http://lixirong.net/pub/mm2019-w2vvpp.pdf) [[code]](https://github.com/li-xirong/w2vvpp)
+
+
+### AVS2020
+* `[Mukai D, Utsunomiya R, Utsuki S, et al.]` Kindai University and Osaka Gakuin University at TRECVID 2020 AVS and ActEV Tasks[J]. [[paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/kindai_ogu.pdf)
+* `[Cui K, Liu H, Wang C, et al.]` TRECVID 2020 AVS: Solution of ZY_BJLAB Team[J]. [[paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/zy_bjlab.pdf)
+* `[Sharma R, Mishra D, Bhatt H.]` rahul@ sac. isro. gov. in, DECU, ISRO Ahmedabad, India[J]. [[paper]](https://arxiv.org/pdf/2104.08860v2.pdf)
+
+### AVS2019
+* `[Francis D, Nguyen P A, Huet B, et al.]` EURECOM at TRECVid AVS 2019[C]//TRECVID. 2019. [[paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/eurecom.pdf) 
+* `[Shirahama K, Sakurai D, Matsubara T, et al.]` Kindai University and Kobe University at TRECVID 2019 AVS Task[C]//TRECVID. 2019. [[paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/eurecom.pdf) 
+* `[Lokoč J, Souček T, Mejzlík F, et al.]` VIRET tool keyword search at TRECVID 2019 AVS task[J]. 2019. [[paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/siret.pdf)
+* `[Nguyen P A, Wu J, Ngo C W, et al.]` Vireo-eurecom@ trecvid 2019: Ad-hoc video search[C]//Proceedings of the TRECVID 2019 Workshop. 2019. [[paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/vireo_avs.pdf)
+
 ### 2021
 
 * `[Luo H, Ji L, Zhong M, et al.]` CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval[J]. arXiv preprint arXiv:2104.08860, 2021. [[paper]](https://arxiv.org/pdf/2104.08860v2.pdf) [[code]](https://github.com/ArrowLuo/CLIP4Clip)
